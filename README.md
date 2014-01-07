@@ -42,9 +42,6 @@ The following options can be set in your user preferences:
 
 ```javascript
 {
-  // square file tabs instead of rounded corners
-  "flatland_square_tabs": true,
-
   // Monokai color scheme (SublimeText's default) with Valley background color
   "color_scheme": "Packages/Theme - Valley/Valley Monokai.tmTheme",
 
