@@ -8,11 +8,11 @@
         "layer0.texture": "Theme - Valley/Valley Dark/tabset-background.png",
         "layer0.inner_margin": [10, 0],
         "layer0.opacity": 1.0,
-        "content_margin": [10, 4, 10, 4],
+        "content_margin": [10, 10, 10, 5],
         "tab_overlap": 14,
-        "tab_width": 100,
+        "tab_width": 180,
         "tab_min_width": 48,
-        "tab_height": 26,
+        "tab_height": 28,
         "mouse_wheel_switch": true
     },
     {
