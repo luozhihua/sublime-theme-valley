@@ -2,7 +2,7 @@
 
 ## About
 
-Valley is a simple theme and accompanying color scheme for Sublime Text 2 & 3. It is mostly derived from  [Flatland](https://github.com/thinkpixellab/flatland) & [Soda](https://github.com/buymeasoda/soda-theme), the right place to start for any custom theme development for Sublime. Thanks Soda & Flatland!
+Valley is a simple theme and accompanying color scheme for Sublime Text 2 & 3. It is mostly derived from  [Soda](https://github.com/buymeasoda/soda-theme), the right place to start for any custom theme development for Sublime. Thanks Soda!
 
 ## Design
 
